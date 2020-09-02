@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "movie-listing"
+    }
+  },
+  "defaultProject": "movie-listing",
+  "cli": {
+    "analytics": false
+  }
 }
