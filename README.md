@@ -1,4 +1,5 @@
 # MovieListing
+A sample movie listing based on the idea of https://scrimba.com/p/pZaznUL/cdVKdrtr 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
